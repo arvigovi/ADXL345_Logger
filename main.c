@@ -2,6 +2,7 @@
 * Author: Arvind Govindaraj (arvind.govindaraj@gmail.com)
 * main.c
 * Rev History:
+* V0.3 - 02/24/2014
 * V0.2 - 04/14/2013
 * V0.1 - 03/06/2013
 Comments: 
